@@ -28,7 +28,7 @@
 ## Step 1: Data Preparation
 ### Objective: Ensure data is clean and ready for analysis.
 ### Actions: Reviewed data for missing or inconsistent entries. Adjusted formats as needed for easier pivot table creation.
-### Tools Used: Data validation, text-to-columns (if any data was unstructured), and basic formatting in Excel.
+### Tools Used: Data validation and basic formatting in Excel.
 
 ## Step 2: Creating Pivot Table
 ### Objective: Summarize sales data by brand, region, and time period.
