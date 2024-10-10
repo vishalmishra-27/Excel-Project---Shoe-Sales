@@ -7,6 +7,7 @@
 ## Pivot chart to visualize trends.
 ## Slicers to filter data by region, month, and brand.
 
+
 # Dataset Overview:
 ## Data Fields:
 ### Order ID: Unique identifier for each sales transaction.
@@ -22,6 +23,7 @@
 ### QTY: Quantity of products sold.
 
 ### AMT: Sales amount in INR.
+
 
 # Step-by-Step Process:
 
@@ -53,6 +55,7 @@
 ### Selected a suitable chart type (e.g., line chart for sales trends, bar chart for brand comparison).
 ### Added data labels and customized the chart (color coding by brand, adding titles).
 ### Result: A visually appealing chart that updates dynamically as slicers are used to filter data.
+
 
 
 # Key Insights:
