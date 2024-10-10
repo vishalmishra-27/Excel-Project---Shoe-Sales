@@ -9,11 +9,17 @@
 # 2. Dataset Overview:
 ## Data Fields:
 Order ID: Unique identifier for each sales transaction.
+
 Brand: The brand of the product sold (e.g., Nike, Adidas).
+
 Month: Month of the transaction.
+
 Region: Geographical region of the sale.
+
 State, City: Location details of the sale.
+
 QTY: Quantity of products sold.
+
 AMT: Sales amount in INR.
 # 3. Step-by-Step Process:
 ## Step 1: Data Preparation
