@@ -3,9 +3,9 @@
 ## Objective: Analyze sales data to provide insights on performance by brand, region, and month. The project involves creating pivot tables and charts for easy visualization, with slicers for dynamic filtering.
 ## Data Source: A dataset of sales transactions containing fields such as Order ID, Brand, Region, State, City, Quantity, and Amount.
 ## Key Deliverables:
-Pivot table summarizing sales data.
-Pivot chart to visualize trends.
-Slicers to filter data by region, month, and brand.
+## Pivot table summarizing sales data.
+## Pivot chart to visualize trends.
+## Slicers to filter data by region, month, and brand.
 # 2. Dataset Overview:
 ## Data Fields:
 Order ID: Unique identifier for each sales transaction.
