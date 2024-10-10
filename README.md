@@ -54,10 +54,6 @@
 ### Added data labels and customized the chart (color coding by brand, adding titles).
 ### Result: A visually appealing chart that updates dynamically as slicers are used to filter data.
 
-# Visuals:
-### Pivot Table Screenshot: Show the structure of the pivot table with fields used.
-### Pivot Chart Screenshot: Display the final pivot chart with relevant sales trends highlighted.
-### Slicer Connections Screenshot: Demonstrate how slicers affect the data display.
 
 # Key Insights:
 ### Brand Performance: Nike had the highest sales volume in April, while Reebok had the least.
