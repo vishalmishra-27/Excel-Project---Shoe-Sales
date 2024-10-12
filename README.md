@@ -1,6 +1,3 @@
-Here’s a `README.md` file for your GitHub repository documenting the Excel sales analysis project:
-
-```markdown
 # Sales Performance Analysis using Pivot Tables & Charts
 
 ## Project Overview
@@ -67,11 +64,3 @@ Here are some key visuals from the project:
 ## Project File
 You can download the project Excel file here:
 [Download the Excel File](./Excel%20Project.xlsx)
-```
-
-### Instructions:
-1. **Upload your Excel file** (`Excel Project.xlsx`) to the GitHub repository.
-2. **Upload images/screenshots** (e.g., `pivot_table.png`, `pivot_chart.png`, `slicers.png`) to an `images` folder in your repository.
-3. **Place the `README.md` file** in the root of your repository.
-
-This will ensure your project is well-documented and presentable for potential employers or clients who visit your GitHub. Let me know if you need further assistance with any part of this!
