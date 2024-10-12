@@ -39,16 +39,6 @@ The dataset used in this project contains the following columns:
 - **Regional Sales Trends**: Sales were highest in the East region, with significant growth observed in April.
 - **Monthly Trends**: April saw an overall increase in sales for all brands.
 
-## Visuals
-Here are some key visuals from the project:
-- **Pivot Table**: Summarizes sales by brand, region, and month.
-![Pivot Table](images/pivot_table.png)
-
-- **Pivot Chart**: Shows sales trends across brands and regions.
-![Pivot Chart](images/pivot_chart.png)
-
-- **Slicers**: Enable dynamic filtering of the data by brand, region, and month.
-![Slicers](images/slicers.png)
 
 ## How to Use the Project
 1. **Download the Excel file**: [Download Excel Project](./Excel%20Project.xlsx)
